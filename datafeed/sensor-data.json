@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "infoId": "1",
+      "latitude": 1,
+      "longitude": 1,
+      "moisture": "Low",
+      "color": "red",
+      "gateway": "ABS"
+    },
+    {
+      "infoId": "2",
+      "latitude": 5,
+      "longitude": 5,
+      "moisture": "Moderate",
+      "color": "orange",
+      "gateway": "ABS1"
+    },
+    {
+      "infoId": "3",
+      "latitude": 7,
+      "longitude": 7,
+      "moisture": "High",
+      "color": "blue",
+      "gateway": "ABS2"
+    },
+    {
+      "infoId": "4",
+      "latitude": 9,
+      "longitude": 9,
+      "moisture": "Very High",
+      "color": "green",
+      "gateway": "ABS3"
+    },
+    {
+      "infoId": "5",
+      "latitude": 2,
+      "longitude": 2,
+      "moisture": "Low",
+      "color": "red",
+      "gateway": "ABS4"
+    }
+  ]
+}
